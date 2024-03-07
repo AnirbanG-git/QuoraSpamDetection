@@ -1,5 +1,4 @@
-# Project Name
-**Multiclass Multilabel Prediction for Stack Overflow Questions**
+# Spam filter for Quora questions
 
 ## Table of Contents
 * [General Information](#general-information)
